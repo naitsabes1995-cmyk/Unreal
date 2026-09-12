@@ -1,0 +1,16 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE
+.vs/
+.idea/
+
+# Build
+Build/
+
+# Sistema operativo
+.Ds_Store
+Thumbs.db
